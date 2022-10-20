@@ -1,0 +1,37 @@
+body {
+    background-color: #007ade;
+    font: normal 15pt Arial;
+}
+
+h1 {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+header{
+    color:aliceblue;
+    text-align: center;
+}
+
+section{
+    background-color: aliceblue;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.623);
+}
+
+select#flista {
+    width: 200px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+footer{
+    color: aliceblue;
+    text-align: center;
+}
+
+p#botao {
+    text-align: center;
+}
